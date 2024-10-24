@@ -26,11 +26,11 @@ Dialects dataset - [*geodare.json*](https://github.com/JessicaMBlanton/TU_PHDS_R
 * [Color Oracle - color blindness simulator](https://colororacle.org/)
   
 * [Color brewer palettes](https://github.com/rcsb/colorbrewer)
-* [viridis color palette](https://cran.r-project.org/web/packages/viridis/vignettes/intro-to-viridis.html)
+* [Viridis color palette](https://cran.r-project.org/web/packages/viridis/vignettes/intro-to-viridis.html)
 
 *Interesting data to play around with*
 
-* [kaggle datasets (machine learning projects)](https://www.kaggle.com/datasets)
+* [Kaggle datasets (machine learning projects)](https://www.kaggle.com/datasets)
   
 * [Data is Plural newsletter](https://www.data-is-plural.com/)
 
