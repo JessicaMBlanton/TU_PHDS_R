@@ -2,11 +2,11 @@
 Materials for scientific computing workshops held at Tulane University
 
 ### Data Visualization in "R" - October 24, 2024
-Linked here is a short tutorial example of how to import data, clean it, associate it with mapping information, and producing a figure.
+This repository contains a short tutorial example of how to import data into R, clean it, associate it with mapping information, and produce a figure.
 
-[Tutorial](https://github.com/JessicaMBlanton/TU_PHDS_R/blob/main/State_dialects.html?dl=1)
+[Tutorial file](https://github.com/JessicaMBlanton/TU_PHDS_R/blob/main/State_dialects.html?dl=1)  *State_dialects.html*
 
-[Dialects dataset](https://github.com/JessicaMBlanton/TU_PHDS_R/blob/main/geodare.json)
+[Dialects dataset](https://github.com/JessicaMBlanton/TU_PHDS_R/blob/main/geodare.json) *geodare.json*
 
 #### __Some Useful Resources__
 [R for Data Science](https://r4ds.had.co.nz/index.html), published January 2017, really lays out a lot of theory and practice for data visualization in R. Especially check out:
