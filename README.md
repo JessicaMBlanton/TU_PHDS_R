@@ -2,7 +2,7 @@
 Materials for scientific computing workshops held at Tulane University
 
 ### Data Visualization in "R" - October 24, 2024
-This repository contains a short tutorial example of how to import data into R, clean it, associate it with mapping information, and produce a figure.
+This repository contains files for download: a short tutorial example of how to import data into R, clean it, associate it with mapping information, and produce a figure.
 
 [Tutorial file](https://github.com/JessicaMBlanton/TU_PHDS_R/blob/main/State_dialects.html?dl=1)  *State_dialects.html*
 
